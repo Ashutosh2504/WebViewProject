@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+        <item android:title="Home"
+            android:icon="@drawable/home"
+            android:id="@+id/home"
+
+            />
+    </group>
+    <group android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item android:title="Participants"
+            
+            android:icon="@drawable/participant"
+            android:id="@+id/participants"/>
+    </group>
+    <group android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item android:title="Key NOS"
+            android:icon="@drawable/keynos"
+
+            android:id="@+id/keynos"
+            />
+    </group>
+    <group android:id="@+id/group4"
+        android:checkableBehavior="single">
+        <item android:title="Contact Us"
+            android:icon="@drawable/contact"
+            android:id="@+id/contactus"
+            />
+    </group>
+    <group android:id="@+id/group5"
+        android:checkableBehavior="single">
+        <item android:title="Help &amp; Support"
+            android:icon="@drawable/helpsupport"
+            android:id="@+id/help"
+            />
+    </group>
+</menu>

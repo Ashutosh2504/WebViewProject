@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IAPSMCON 2023</string>
+    <string name="quiz_polls"><![CDATA[Quiz & Polls]]></string>
+    <string name="open">Open</string>
+    <string name="Close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="patron_and_organizing_chairperson"> On behalf of the organizing committee, I take immense pride in welcoming all the delegates to the Golden Jubilee IAPSMCON 2023. It’s time to reflect on the journey of 50 years, celebrate the highs, learn from the lows and carve a vision together for coming decades in the field of public health.</string>
+    <string name="organizing_chairperso">It’s my honor and pleasure, to welcome all the delegates to the enriching scientific experience of Golden Jubilee IAPSMCON 2023. It is indeed an occasion of celebration for all those who have been associated with the organization and its activities in reaching the unreached. Hope you all will have productive and joyous experience
+        </string>
+
+    <string name="OrganizingViceChairperson">On behalf of the Organizing Committee, it is a great pleasure to invite you to join IAPSMCON 2023 conference. This is a colossal platform for dissemination of knowledge, for networking, for innovations, for unique concepts and for collaboration. Let’s join hands for the future of this world, for the Next-gen of mankind, for the prospective and collective efforts to change what is within our reach and means.
+Looking forward to welcoming you in Hyderabad!
+    </string>
+
+    <string name="OrganizingSecretary">Golden Jubilee IAPSMCON 2023 is an important milestone to celebrate all the hurdles we have overcome and acknowledge our imperishable presence in the field of public health. My best wishes to all the delegates who are on the path of seeking and sharing knowledge.
+    </string>
+    <string name="title_activity_accommodation">AccommodationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="help_support"><![CDATA[Help & Support]]></string>
+</resources>
